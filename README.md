@@ -13,6 +13,7 @@ aaa@aaa.com
 3. HIJ
 4. KLM
 
-`public class Main {
-
-    public static void main(String[] args) {`
+`
+    public class Main {
+    public static void main(String[] args) {
+`
