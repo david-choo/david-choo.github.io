@@ -12,3 +12,6 @@ aaa@aaa.com
 2. EFG
 3. HIJ
 4. KLM
+
+#!/usr/bin/env clojure
+    (println "Hello, World!")
